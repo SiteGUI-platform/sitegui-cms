@@ -1,2 +1,2 @@
 # sitegui-cms
-This is the repository for SiteGUI CMS which will be made public on Jan 1, 2026 or after this repo reaches 80000 stars, whichever is sooner!
+SiteGUI CMS has been released under the nick name LiteGUI since January 2025, the source code/repository can be found at https://github.com/SiteGUI-platform/litegui
